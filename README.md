@@ -1,0 +1,8 @@
+Bu çalışma, bir otel yönetim sistemi simülasyonunu gerçekleştiren bir programı içerir. Program, kullanıcıya otel odalarıyla ilgili çeşitli işlemleri yapma imkanı sunar. Bu işlemler arasında müşteri ekleme, oda bilgisi alma, oda durumu görüntüleme, fiyat bilgisi alma, çıkış işlemi yapma ve uygulamadan çıkma bulunur. Dinamik bellek yönetimi için malloc ve calloc gibi işlevler kullanılarak veriler saklanır ve yönetilir.
+Program, otel yönetimi için temel operasyonları gerçekleştirir ve kullanıcıların bu işlemleri etkili bir şekilde yapabilmesini sağlar. Bu sistemin amacı, otel odalarının yönetimini kolaylaştırmak ve müşteri bilgilerini güvenli bir şekilde saklamak üzerine odaklanmıştır. Her bir fonksiyon, kullanıcının taleplerini karşılayacak şekilde tasarlanmış ve uygulanmıştır, bu da programın işlevselliğini artırır ve kullanımını kolaylaştırır.
+
+--------------------------------------------------
+
+This project entails a program simulating a hotel management system. The program allows users to perform various operations related to hotel rooms. These operations include adding customers, retrieving room information, checking room availability, obtaining pricing details, checking out customers, and exiting the application. Data is managed and stored using dynamic memory allocation functions such as malloc and calloc.
+
+The program executes fundamental operations for hotel management, enabling users to effectively manage these tasks. Its primary objective is to facilitate the management of hotel rooms and securely store customer information. Each function is designed and implemented to meet user needs, thereby enhancing the program's functionality and ease of use.
